@@ -7,6 +7,7 @@ public class Ders01 {
        System.out.println("cok ders calis");
 	System.out.println("cok cok ders calis");
 	System.out.println("cok");
+	System.out println("cakisma degil";	
 	}
 
 }
